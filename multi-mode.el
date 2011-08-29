@@ -603,3 +603,7 @@ mode is selected.  POS defaults to point."
 (provide 'multi-mode)
 
 ;;; multi-mode.el ends here
+
+(load "html-php")
+(load "multi-comment")
+(load "multi-mako")
